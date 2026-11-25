@@ -1,0 +1,1 @@
+Build the make.fun tagline in one line for the bounty u-boge-one-line-one-week-the-make-fun-tagline-66aca584 (gate 1-100 characters). main.py (Python standard library only) writes the fixed line to /output/entry.txt deterministically and verifies the written bytes.
